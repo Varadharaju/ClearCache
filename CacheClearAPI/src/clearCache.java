@@ -140,5 +140,6 @@ public class clearCache {
 	public static void clearingCahce(int value)
 	{
 		pb.setValue(value);
+		System.out.println("test");
 	}
 }
