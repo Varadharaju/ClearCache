@@ -44,19 +44,19 @@ public class clearCache {
 			switch (picked) 
 			{
 				case "AWS TEST01":  				
-					 URL = "http://aip_monitoring:0pen5ecret@" + AWS_TEST01;
+					 URL = "http://<username>:<password>" + AWS_TEST01;
 					 break;
 				
 				case "AWS TEST02":  				
-					 URL = "http://aip_monitoring:0pen5ecret@" + AWS_TEST02;
+					 URL = "http://<username>:<password>" + AWS_TEST02;
 					 break;
 					
 				case "AWS TEST03":  				
-					 URL = "http://aip_monitoring:0pen5ecret@" + AWS_TEST03;
+					 URL = "http://<username>:<password>" + AWS_TEST03;
 					 break;
 					
 				case "AWS SD":  				
-					 URL = "http://aip_monitoring:0pen5ecret@" + AWS_SD;
+					 URL = "http://<username>:<password>" + AWS_SD;
 					 break;				
 			}
 			
